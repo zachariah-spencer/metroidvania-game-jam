@@ -1,4 +1,4 @@
-##Metroidvania Videogame
+#Metroidvania Videogame
 
 Developed using the Godot 3 engine over the span of 4 weeks for a game jam.
 
