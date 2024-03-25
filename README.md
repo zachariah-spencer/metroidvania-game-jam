@@ -1,5 +1,3 @@
-#Metroidvania Videogame
-
 Developed using the Godot 3 engine over the span of 4 weeks for a game jam.
 
 This prototype showcases a metroidvania-style video game developed using the Godot engine. Players navigate a sprawling interconnected world with smooth room transitions, save/load features, a combat and spellcasting system, a complex player state system, 
