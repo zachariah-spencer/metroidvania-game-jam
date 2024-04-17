@@ -1,8 +1,20 @@
-Developed using the Godot 3 engine over the span of 4 weeks for a game jam.
+# Wizards Metroidvania
 
-This prototype showcases a metroidvania-style video game developed using the Godot engine. Players navigate a sprawling interconnected world with smooth room transitions, save/load features, a combat and spellcasting system, a complex player state system, 
-and multiple enemy types. players must explore hidden passages and unlock new abilities to progress. Developed with an emphasis on code efficiency and modularity, the project serves as a robust foundation for further expansion and refinement, 
-leveraging the capabilities of modern game development frameworks and tools.
+Controls :
 
-This game can be downloaded and played at:
-https://zachariah-spencer.itch.io/wizards-metroidvania
+WD to move left and right
+
+Spacebar to jump
+
+Mouse to aim, rmb to cast, lmb to shield
+
+F to heal, q and e to cycle spells
+
+Tab for spell menu, esc for main menu
+
+Life interfered a bit with development on this jam, so map is very limited and assets are also quite rough, but it's a good rough draft of what we were going for. Would love any feedback, was quite fun.
+
+Co-developed with https://itch.io/profile/cschlaefli
+
+## This game can be downloaded and played at:
+## https://zachariah-spencer.itch.io/wizards-metroidvania
