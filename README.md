@@ -5,4 +5,4 @@ and multiple enemy types. players must explore hidden passages and unlock new ab
 leveraging the capabilities of modern game development frameworks and tools.
 
 This game can be downloaded and played at:
-https://zachariah-spencer.itch.io/one-boss-one-room-one-shot
+https://zachariah-spencer.itch.io/wizards-metroidvania
